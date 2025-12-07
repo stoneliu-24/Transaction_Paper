@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex main"] 1765062288.28233 "main.aux" "main.bbl" "main" 1765062292.51462 0
+["bibtex main"] 1765062288.28233 "main.aux" "main.bbl" "main" 1765072010.37063 0
   "./main.bib" 1764456405 10837 72513765ceb3f0a5aa4e46fa209c7f1a ""
   "C:/Users/stone/AppData/Local/Programs/MiKTeX/bibtex/bib/ieeetran/IEEEabrv.bib" 1440617548 20898 a5d2167c380db7dfff810b085c77ed63 ""
   "C:/Users/stone/AppData/Local/Programs/MiKTeX/bibtex/bst/ieeetran/IEEEtran.bst" 1440622569 57748 7c8250ecf02814ce6ddc0cdbb63df1dd ""
-  "main.aux" 1765062291 14672 73bd2b64eaa4a1fd2a696e8d51760744 "pdflatex"
+  "main.aux" 1765072008 14672 73bd2b64eaa4a1fd2a696e8d51760744 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1765062288.59767 "c:/Users/stone/latex/I2MTC_Transaction_Paper/main.tex" "main.pdf" "main" 1765062292.51561 0
+["pdflatex"] 1765072004.34008 "c:/Users/stone/latex/I2MTC_Transaction_Paper/main.tex" "main.pdf" "main" 1765072010.37134 0
   "C:/Users/stone/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1764456596 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/stone/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1764456260 24225047 7e49807ac0b484e1b019ff4ef7f7f8d6 ""
   "C:/Users/stone/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -167,13 +167,13 @@
   "Rx_Netgear_dynamic.png" 1764456405 46221 d7f26083342bb357bc67b42c72887c96 ""
   "Signal_analyzer.jpg" 1764456405 442987 6660734317f481ad841420e13d11f659 ""
   "Time_domain_on_off.png" 1764456405 17268 48fd6bf643fce09a3022b4617c02a113 ""
-  "c:/Users/stone/latex/I2MTC_Transaction_Paper/main.tex" 1765062271 65911 e14691083ecd3d306bec54030ae11f77 ""
+  "c:/Users/stone/latex/I2MTC_Transaction_Paper/main.tex" 1765072003 65887 95338e83ba62fb3b117620d89178afb3 ""
   "dynamic_edt_10.png" 1764456405 19871 ed74e0669eec21aa236a9deac3e46159 ""
   "dynamic_edt_50.png" 1764456405 15877 b80d5de1af8c2b521e3c71345fba7875 ""
-  "main.aux" 1765062291 14672 73bd2b64eaa4a1fd2a696e8d51760744 "pdflatex"
+  "main.aux" 1765072008 14672 73bd2b64eaa4a1fd2a696e8d51760744 "pdflatex"
   "main.bbl" 1765062288 6907 4ea5ae64c57cdeeab26168c5281f2f2c "bibtex main"
-  "main.out" 1765062291 2532 e9e2e14b0f48fabda697c1d197b30614 "pdflatex"
-  "main.tex" 1765062271 65911 e14691083ecd3d306bec54030ae11f77 ""
+  "main.out" 1765072008 2532 e9e2e14b0f48fabda697c1d197b30614 "pdflatex"
+  "main.tex" 1765072003 65887 95338e83ba62fb3b117620d89178afb3 ""
   "rx_retries.png" 1764456405 17663 68b7dd23494e7c89a682030daab4ffac ""
   "rx_testbed.png" 1764456405 65730 d2048721059d42b09988ca6565347b3b ""
   "tx_testbed.png" 1764456405 67644 a8ae2044efc5694a652fdf9b1e8240b8 ""
